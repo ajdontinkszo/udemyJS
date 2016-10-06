@@ -1,0 +1,36 @@
+[33mcommit d00491d69c62e9f7be43057a96b72037857896eb[m
+Merge: 27265e2 3928925
+Author: Kiss Ferenc <kiss.ferenc.1984@gmail.com>
+Date:   Thu Oct 6 13:24:01 2016 +0300
+
+    4. function in function
+
+[33mcommit 27265e271f1cb44a735448bcd89750f25ae847a7[m
+Author: Kiss Ferenc <kiss.ferenc.1984@gmail.com>
+Date:   Thu Oct 6 12:25:17 2016 +0300
+
+    3. myVar + console.log
+
+[33mcommit 71a788eafe4748faeb98a46691a981f285f8bbb3[m
+Author: Kiss Ferenc <kiss.ferenc.1984@gmail.com>
+Date:   Thu Oct 6 11:44:36 2016 +0300
+
+    2. myVar
+
+[33mcommit 39289250d82e2269b7bff40c0cc5806d63c1a93c[m
+Author: Kiss Ferenc <kiss.ferenc.1984@gmail.com>
+Date:   Thu Oct 6 11:28:48 2016 +0300
+
+    2.  myVar peldak
+
+[33mcommit dbe46d301e8b1433a2106d97e22f4ed833241657[m
+Author: Kiss Ferenc <kiss.ferenc.1984@gmail.com>
+Date:   Thu Oct 6 10:51:21 2016 +0300
+
+    1. console.log-ok
+
+[33mcommit eaae3edda96471947589d5d01ff2629bed9a8074[m
+Author: ajdontinkszo <kiss.ferenc.1984@gmail.com>
+Date:   Tue Oct 4 12:38:19 2016 +0300
+
+    Initial commit
